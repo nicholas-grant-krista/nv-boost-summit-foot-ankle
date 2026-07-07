@@ -34,10 +34,14 @@ Podiatry practice in Layton, UT serving Davis County. Services: general podiatry
 
 ## Brand & Voice Notes
 
-_Populated by first content deliverable; refined over time._
+- Voice: warm, professional, locally rooted — neighborhood practice, not hospital system
+- Landing page palette (declared fallback, no live site to audit): primary #0F5E5A, secondary #E8833A, text #22303A, bg #F7F8F6
+- Local anchors used in copy: Andy Adams Park, Adams Canyon, Bonneville Shoreline Trail, Kaysville/Clearfield/Syracuse service area
+- Awareness level: Solution Aware (local search intent); H1 leads with benefit + city
 
 ## Delivery Log
 
 | Date | Line | Deliverable | Location |
 |---|---|---|---|
 | 2026-07-07 | Boost Engine | Repo provisioned from template, Agreement NV-2026-047 | — |
+| 2026-07-07 | Paid Search Launch | Conversion landing page v1 | docs/index.html |
