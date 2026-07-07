@@ -1,11 +1,12 @@
-# {{CUSTOMER_NAME}} — NVM Boost
+# Summit Foot & Ankle — NVM Boost
 
 Customer delivery repo. Created and maintained by Krista.
 
-- **Customer:** {{CUSTOMER_NAME}}
-- **Slug:** {{CUSTOMER_SLUG}}
-- **Domain:** {{DOMAIN}}
-- **Active Lines:** {{ACTIVE_LINES}}
+- **Customer:** Summit Foot & Ankle (Layton, UT)
+- **Slug:** summit-foot-ankle
+- **Domain:** summitfootankle.example.com (placeholder — test client)
+- **Agreement:** NV-2026-047 · $1,500/mo · effective 2026-07-07, initial term through 2027-01-07
+- **Active Lines:** Local Visibility · Paid Search Launch · SEO Authority
 
 ## Structure
 
@@ -21,7 +22,6 @@ Customer delivery repo. Created and maintained by Krista.
 - Krista commits directly to `main`. No branches, no PRs.
 - Commit message format: `[<Line Name>] <description> – YYYY-MM-DD`
 - Multi-file deliverables land as a single atomic commit (Commit Files request).
-- Placeholder tokens (`{{...}}`) are resolved by Krista at provisioning time.
 
 ## Do not edit manually
 
