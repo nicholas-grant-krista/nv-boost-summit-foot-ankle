@@ -38,10 +38,12 @@ Podiatry practice in Layton, UT serving Davis County. Services: general podiatry
 - Landing page palette (declared fallback, no live site to audit): primary #0F5E5A, secondary #E8833A, text #22303A, bg #F7F8F6
 - Local anchors used in copy: Andy Adams Park, Adams Canyon, Bonneville Shoreline Trail, Kaysville/Clearfield/Syracuse service area
 - Awareness level: Solution Aware (local search intent); H1 leads with benefit + city
+- Live site: https://nicholas-grant-krista.github.io/nv-boost-summit-foot-ankle/ (noindex — demo)
 
 ## Delivery Log
 
 | Date | Line | Deliverable | Location |
 |---|---|---|---|
 | 2026-07-07 | Boost Engine | Repo provisioned from template, Agreement NV-2026-047 | — |
-| 2026-07-07 | Paid Search Launch | Conversion landing page v1 | docs/index.html |
+| 2026-07-07 | Paid Search Launch | Conversion landing page v1 (v1.1 noindex) | docs/index.html |
+| 2026-07-07 | Paid Search Launch | Google Search campaign spec v1 + import CSV (estimates) | campaigns/ |
